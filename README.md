@@ -78,3 +78,35 @@ while True == True:
     main()
 
 ```
+
+
+## Output logs example: 
+
+
+```
+
+04/21/2020 07:08:43 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 07:08:47 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:08:49 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:08:51 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 07:08:53 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 07:08:55 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 07:08:57 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 07:08:59 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 07:09:01 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:09:03 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:09:05 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:09:07 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 07:09:09 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 07:09:11 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 07:09:13 PM | <string>:1 | ERROR | error Request
+04/21/2020 07:09:15 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 07:09:17 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 07:09:19 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 07:09:21 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 07:09:23 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 07:09:25 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 07:09:29 PM | <string>:1 | INFO | OK Backup of DB
+
+
+```
