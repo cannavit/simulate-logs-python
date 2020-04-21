@@ -12,7 +12,6 @@ def main():
     logs_file_name       = 'example.log'
     limit_size_file_beat = 150
     
-
     # Log configurations
 
     logging.basicConfig(
@@ -25,6 +24,7 @@ def main():
     # Time of sleep
     time.sleep(time_to_wait_s)
     
+    # Dictionay of cases:
     LOGING_TYPE = [
                 "logging.debug('debug message')",
                 "logging.info('OK Access to database')",
@@ -38,7 +38,7 @@ def main():
                    ]    
                    
     log = randint(0,len(LOGING_TYPE)-1)
-
+    
     eval(LOGING_TYPE[log])
 
     size = os.path.getsize(logs_file_name)
