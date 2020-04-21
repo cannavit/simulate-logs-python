@@ -4,10 +4,11 @@ This project shows a simple example of how to create a LOGS simulator to test en
 
 ## Insing Python Envirement. 
 
-### 1. Create python Local Enviroment: 
+#### 1. Create python Local Enviroment: 
 
 virtualenv -p python3 env
 
-### 2. Activate Enviroment. 
+#### 2. Activate Enviroment. 
 
 source env/bin/activate
+

@@ -1,0 +1,34 @@
+04/21/2020 12:13:49: PM This message should go to the log file
+04/21/2020 12:13:49: PM So should this
+04/21/2020 12:13:49: PM And this, too
+04/21/2020 12:13:50: PM This message should go to the log file
+04/21/2020 12:13:50: PM So should this
+04/21/2020 12:13:50: PM And this, too
+04/21/2020 12:13:57: PM This message should go to the log file
+04/21/2020 12:13:57: PM So should this
+04/21/2020 12:13:57: PM And this, too
+04/21/2020 12:13:57: PM debug message
+04/21/2020 12:13:57: PM info message
+04/21/2020 12:13:57: PM warn message
+04/21/2020 12:13:57: PM error message
+04/21/2020 12:13:57: PM critical message
+04/21/2020 12:14:29: PM This message should go to the log file
+04/21/2020 12:14:29: PM So should this
+04/21/2020 12:14:29: PM And this, too
+04/21/2020 12:14:29: PM debug message
+04/21/2020 12:14:29: PM info message
+04/21/2020 12:14:29: PM warn message
+04/21/2020 12:14:29: PM error message
+04/21/2020 12:14:29: PM critical message
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
