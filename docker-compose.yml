@@ -1,0 +1,10 @@
+ version: '3.7'
+ services:
+  loggsGenerator:
+    build:
+      dockerfile: Dockerfile
+      context: .   
+    image: loggs_generator:04
+    container_name: loggsGenerator     
+    volumes:
+      - ./example.log:/app/example.log

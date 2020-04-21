@@ -34,3 +34,93 @@
 04/21/2020 05:38:06 PM | <string>:1 | CRITICAL | Dont work of sistems
 04/21/2020 05:38:10 PM | <string>:1 | INFO | OK Backup of DB
 04/21/2020 05:38:12 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:50:34 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:50:36 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:50:38 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:50:40 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:50:42 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:50:44 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:50:46 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:50:50 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:50:54 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:50:56 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:50:58 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:00 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:51:02 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:51:04 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:06 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:51:08 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:10 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:16 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:51:18 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:51:20 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:51:22 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:51:24 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:51:26 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:51:28 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:51:30 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:51:34 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:51:36 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:51:38 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:51:40 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:51:42 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:51:44 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:46 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:51:50 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:51:52 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:51:54 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:51:56 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:51:58 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:52:00 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:52:02 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:52:04 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:52:08 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:52:10 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:52:14 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:52:16 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:52:18 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:52:20 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:52:22 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:52:26 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:52:28 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:52:30 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:52:38 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:52:44 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:52:46 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:52:48 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:52:50 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:52:52 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:52:54 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:52:56 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:52:58 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:00 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:53:02 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:53:04 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:06 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:53:08 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:10 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:12 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:16 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:53:20 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:53:22 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:24 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:53:26 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:30 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 06:53:34 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:36 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:53:38 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:40 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:53:42 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:53:44 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:46 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:53:48 PM | <string>:1 | ERROR | error Request
+04/21/2020 06:53:50 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:53:52 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:53:54 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 06:53:58 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:54:00 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 06:54:04 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 06:54:06 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 06:54:08 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 06:54:10 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 06:54:12 PM | <string>:1 | CRITICAL | Dont work of sistems
