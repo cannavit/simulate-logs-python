@@ -4,10 +4,9 @@ Documentation for library  logging [https://docs.python.org/3/howto/logging.html
 
 ## Run From docker-compose. 
 
-Inicializar proyecto con Django.  
+Run Logs Generator from docker-compose:
 
 ```
-
 docker-compose up -d
 
 # Check logs output ./example.log
@@ -24,3 +23,4 @@ virtualenv -p python3 env
 
 source env/bin/activate
 
+## Simulator Script: 
