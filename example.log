@@ -1,34 +1,36 @@
-04/21/2020 12:13:49: PM This message should go to the log file
-04/21/2020 12:13:49: PM So should this
-04/21/2020 12:13:49: PM And this, too
-04/21/2020 12:13:50: PM This message should go to the log file
-04/21/2020 12:13:50: PM So should this
-04/21/2020 12:13:50: PM And this, too
-04/21/2020 12:13:57: PM This message should go to the log file
-04/21/2020 12:13:57: PM So should this
-04/21/2020 12:13:57: PM And this, too
-04/21/2020 12:13:57: PM debug message
-04/21/2020 12:13:57: PM info message
-04/21/2020 12:13:57: PM warn message
-04/21/2020 12:13:57: PM error message
-04/21/2020 12:13:57: PM critical message
-04/21/2020 12:14:29: PM This message should go to the log file
-04/21/2020 12:14:29: PM So should this
-04/21/2020 12:14:29: PM And this, too
-04/21/2020 12:14:29: PM debug message
-04/21/2020 12:14:29: PM info message
-04/21/2020 12:14:29: PM warn message
-04/21/2020 12:14:29: PM error message
-04/21/2020 12:14:29: PM critical message
-DEBUG:root:This message should go to the log file
-INFO:root:So should this
-WARNING:root:And this, too
-DEBUG:root:This message should go to the log file
-INFO:root:So should this
-WARNING:root:And this, too
-DEBUG:root:This message should go to the log file
-INFO:root:So should this
-WARNING:root:And this, too
-DEBUG:root:This message should go to the log file
-INFO:root:So should this
-WARNING:root:And this, too
+04/21/2020 05:36:48 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 05:36:50 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 05:36:52 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 05:36:54 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:36:56 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:36:58 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 05:37:00 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 05:37:02 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:37:04 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:37:06 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:37:08 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:37:10 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 05:37:12 PM | <string>:1 | ERROR | error Request
+04/21/2020 05:37:14 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 05:37:16 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:37:18 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:37:26 PM | <string>:1 | INFO | OK Access to Good Connections
+04/21/2020 05:37:30 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 05:37:32 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 05:37:34 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:37:36 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:37:38 PM | <string>:1 | CRITICAL | Dont access to DB
+04/21/2020 05:37:40 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:37:42 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:37:44 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:37:46 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 05:37:48 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:37:52 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:37:54 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:37:56 PM | <string>:1 | INFO | OK Loggin Access
+04/21/2020 05:37:58 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:38:02 PM | <string>:1 | WARNING | Fail Request
+04/21/2020 05:38:04 PM | <string>:1 | INFO | OK Access to database
+04/21/2020 05:38:06 PM | <string>:1 | CRITICAL | Dont work of sistems
+04/21/2020 05:38:10 PM | <string>:1 | INFO | OK Backup of DB
+04/21/2020 05:38:12 PM | <string>:1 | WARNING | Fail Request
